@@ -1,0 +1,11 @@
+.App {
+  height: 100%;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.Content {
+  max-width: 400px;
+  position: relative;
+}
